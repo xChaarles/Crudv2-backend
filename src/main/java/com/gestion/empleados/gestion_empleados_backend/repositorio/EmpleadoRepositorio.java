@@ -1,4 +1,4 @@
-package com.gestion.empleados.gestion_empleados_backend.modelo.repositorio;
+package com.gestion.empleados.gestion_empleados_backend.repositorio;
 
 import com.gestion.empleados.gestion_empleados_backend.modelo.Empleado;
 import org.springframework.data.jpa.repository.JpaRepository;
